@@ -1,2 +1,2 @@
-# git-batch-51-repo
-test repo
+# git-batch-51-repository
+testing repo
